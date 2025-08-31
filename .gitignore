@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyc
+
+# Env / secrets
+.env
+.vscode/
+.idea/
+venv/
+env/
+
+# Colab and outputs
+.ipynb_checkpoints
+outputs/
+*.png
+
+# Others
+.DS_Store

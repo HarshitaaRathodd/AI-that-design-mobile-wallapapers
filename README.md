@@ -20,7 +20,7 @@ cd ai-wallpaper-generator
 2. Create virtual env & install:
 python -m venv venv
 source venv/bin/activate    # mac/linux
-# or: venv\Scripts\activate  # Windows
+or: venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 
 3. Add your Hugging Face token:
